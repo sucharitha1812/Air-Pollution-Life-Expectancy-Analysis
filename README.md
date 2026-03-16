@@ -26,6 +26,26 @@ The project integrates multiple international datasets to identify **global patt
 
 ---
 
+# 🌐 Interactive Tableau Dashboard
+
+👉 **Explore the full interactive dashboard**
+
+[Open Tableau Dashboard](https://public.tableau.com/app/profile/sucharitha.reddy.gaddam/viz/HealthCostofAirPollution/HowIsAirPollutionImpactingGlobalHealth)
+
+The dashboard allows users to:
+
+- Explore **global pollution levels**
+- Analyze **life expectancy trends**
+- Compare **economic indicators and health outcomes**
+- Interact with **multiple visualizations and filters**
+
+---
+## Dashboard Preview
+
+[![Air Pollution Dashboard](dashboard_preview.png)](https://public.tableau.com/app/profile/sucharitha.reddy.gaddam/viz/HealthCostofAirPollution/HowIsAirPollutionImpactingGlobalHealth)
+
+---
+
 # 📊 Dashboard Highlights
 
 These visualizations highlight key relationships between **air pollution, economic development, and global health outcomes**.
@@ -34,7 +54,7 @@ These visualizations highlight key relationships between **air pollution, econom
 
 This visualization shows the relationship between economic development and life expectancy over time.
 
-![GDP vs Life Expectancy Trend](gdp-correlation.png)
+![GDP vs Life Expectancy Trend](trend-gdp-life-expectancy.png)
 
 ---
 
@@ -50,7 +70,7 @@ This world map highlights countries with the **highest and lowest life expectanc
 
 This chart demonstrates the relationship between **PM2.5 air pollution levels and life expectancy**, showing how environmental quality influences public health.
 
-![Life Expectancy vs Air Pollution](trend-analysis.png)
+![Life Expectancy vs Air Pollution](life-expectancy-air-pollution.png)
 
 ---
 
@@ -138,6 +158,7 @@ air-pollution-life-expectancy-analysis
 │
 ├── README.md
 ├── Health Cost of Air Pollution.twbx
+├── dashboard_preview.png
 ├── Air pollution & Life Expectancy.pdf
 │
 ├── trend-gdp-life-expectancy.png
@@ -159,6 +180,10 @@ air-pollution-life-expectancy-analysis
 2. Download the `.twbx` file  
 3. Open the workbook  
 4. Interact with filters and visualizations to explore relationships between pollution, economics, and life expectancy
+
+Or explore the **live version directly**:
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/sucharitha.reddy.gaddam/viz/HealthCostofAirPollution/HowIsAirPollutionImpactingGlobalHealth)
 
 ---
 
