@@ -1,0 +1,8 @@
+# Tableau temp files
+*.twbr
+*.tmp
+*.tmsave
+
+# OS files
+desktop.ini
+.DS_Store
