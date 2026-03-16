@@ -74,7 +74,7 @@ This chart demonstrates the relationship between **PM2.5 air pollution levels an
 
 ---
 
-# Business / Policy Question
+# Research Questions
 
 What factors most strongly influence life expectancy across countries?
 
