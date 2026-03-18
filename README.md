@@ -1,13 +1,16 @@
 
 # 🌍 Air Pollution & Life Expectancy Analysis
 
-### 📊 Global Data Analytics Project | Tableau Dashboard
+### 📊 Data Visualization & Analytics Project | Tableau | Public Health | Global Data
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data-Analytics-blue)
-![EDA](https://img.shields.io/badge/Exploratory-Data%20Analysis-orange)
-![Public Health](https://img.shields.io/badge/Domain-Public%20Health-green)
-![Data Sources](https://img.shields.io/badge/Data-WHO%20%7C%20World%20Bank%20%7C%20OWID-lightgrey)
+![Tool Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
+![Output Dashboard](https://img.shields.io/badge/Output-Public%20Dashboard-blue)
+![EDA Exploratory Analysis](https://img.shields.io/badge/EDA-Exploratory%20Analysis-orange)
+![Data Integration](https://img.shields.io/badge/Data-Integration-purple)
+![Analysis Time Series](https://img.shields.io/badge/Analysis-Time%20Series-yellow)
+![Visualization Geospatial](https://img.shields.io/badge/Visualization-Geospatial-green)
+![Domain Public Health](https://img.shields.io/badge/Domain-Public%20Health-brightgreen)
+![Data Sources](https://img.shields.io/badge/Data-WHO%20%7C%20World%20Bank%20%7C%20IMF%20%7C%20OWID-lightgrey)
 
 ---
 
